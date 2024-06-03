@@ -1,1 +1,1 @@
-# en-vi-translator-realtime
+# en-vi-translator-realtime by Phan, Dinh Long Nhat
